@@ -1,4 +1,4 @@
-![AstrakoBot](https://i.imgur.com/1oah5E2.jpg)
+![AstrakoBot](https://telegra.ph/file/40f7da0c6f0dd5915de99.jpg)
 # AstrakoBot 
 <p align="center">
 <a href="https://www.codacy.com/gh/Astrako/AstrakoBot/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Astrako/AstrakoBot&amp;utm_campaign=Badge_Grade" alt="Codacy Badge">
@@ -29,13 +29,13 @@
 
 A modular Telegram Python bot running on python3 with a sqlalchemy database.
 
-Originally a SaitamaRobot fork, AstrakoBot evolved further and was built to be more robust. 
+Originally a SaitamaRobot fork, evolved further and was built to be more robust. 
 
-* Bot link:  <a href="https://t.me/AstrakoBot" alt="AstrakoBot"> <img src="https://img.shields.io/badge/%F0%9F%A4%96%20-AstrakoBot-blue" /> </a>
+* Bot link:  <a href="https://t.me/Zaynmalik_gc_bot" alt="AstrakoBot"> <img src="https://img.shields.io/badge/%F0%9F%A4%96%20-AstrakoBot-blue" /> </a>
 
-* Support group:  <a href="https://t.me/AstrakoBotSupport" alt="AstrakoBotSupport"> <img src="https://aleen42.github.io/badges/src/telegram.svg" /> </a>
+* Support group:  <a href="https://t.me/Friendstamilchatting" alt="AstrakoBotSupport"> <img src="https://aleen42.github.io/badges/src/telegram.svg" /> </a>
 
-* Recommended federation:  <a href="https://t.me/ALTF4Fed" alt="ALTF4Fed"> <img src="https://img.shields.io/badge/🚫-ALTF4Fed-red" /> </a>
+* Recommended federation:  <a href="https://t.me/mafiaking_fed" alt="ALTF4Fed"> <img src="https://img.shields.io/badge/🚫-ALTF4Fed-red" /> </a>
 
 In support group you can ask for help, discover/request new features, report bugs, and stay in the loop whenever a new update is available. 
 
